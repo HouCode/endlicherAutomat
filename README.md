@@ -1,3 +1,4 @@
-# Endlicher Automat
+# ReactiveSystem
 
-Dieses Repository ist ein Projekt zur Erstellung eines Endlichen Automaten in Java. 
+This Repository is a project about a reactive system, implemented as a finite state machine (mealy).
+
